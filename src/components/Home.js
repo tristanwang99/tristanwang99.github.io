@@ -7,7 +7,7 @@ const Home = () => {
       <div className="container mx-auto">
         <div className="flex flex-col items-center text-center mt-16 lg:mt-0">
           <h2 className='section-title'>Portfolio</h2>
-          <p className='subtitle'>Here are some of my recent projects. Click on the cards below for details.</p>
+          <p className='subtitle'>Here are some of my recent projects. Click on the slide buttons for details.</p>
         </div>
         <Slider />
       </div>
